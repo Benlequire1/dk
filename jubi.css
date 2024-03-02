@@ -1,0 +1,61 @@
+#q1 {
+	background-color: #6f7a5d;
+	height: 1400px;
+	width: 1000px;
+	border-radius: 10px;
+	padding: 25px;
+}
+body {
+margin: 10px 500px 500px;
+}
+body {
+	background: url(35epoAK.gif) scroll no-repeat; background-size: cover;
+}
+h1 {
+	font-family: Jumpman;
+	font-size: 100px;
+	color: #851818;
+}
+h2 {
+	font-family: Jumpman;
+	font-size: 50px;
+	color: #851818;
+}
+h3 {
+	font-family: dunkin;
+	font-size: 15px;
+}
+a {
+	font-family: dunkin;
+	font-size: 15px;
+}
+a:link {
+ color: #18210a;
+}
+
+a:hover {
+ color: #301317;
+}
+#dança{
+	height: 400px;
+	width: 400px;
+	position: absolute;
+	top: 0px;
+	right: 50px;
+}
+#surf {
+	height: 400px;
+	width: 400px;
+	position: absolute;
+	top: 1000px;
+	left: 50px;
+}
+#musica {
+	height: 200px;
+	width: 200px;
+	margin-top: 100px;
+}
+
+audio{
+	margin-bottom: 130px;
+}
